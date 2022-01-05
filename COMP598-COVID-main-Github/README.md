@@ -6,5 +6,5 @@ The pdf file "COMP 598 Final Project - Data Science Project copy.pdf" contains t
 
 The "data" folder contains all the necessary raw data that we obtained and then cleaned/annotated throughout the project. The "src" folder contains the python scripts used to complete the various tasks in the project. Lastly, the "tests" folder holds any tests scripts which we would have used (this is empty). 
 
-While all the group members assisted with each aspect of the project, my main contribution was performing the TF-IDF word analysis. I wrote the scripts: "tweet_word_counts.py" and "compute_idf.py" which computed the frequency of words in each category, and then calculated their relative TF-IDF scores. Significantly more details about this is given in the methods section of the final report. 
+While all the group members assisted with each aspect of the project, my main contribution was performing the TF-IDF word analysis (see the "Group Member contributions" section on the last page of the final report). I wrote the scripts: "tweet_word_counts.py" and "compute_idf.py" which computed the frequency of words in each tweet category, and then calculated their relative TF-IDF scores. Significantly more details about this is given in the final report, particularily in the methods section. 
 
