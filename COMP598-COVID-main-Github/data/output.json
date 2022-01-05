@@ -1,0 +1,55 @@
+{
+    "vaccination": {
+        "count": 224,
+        "negative": 79,
+        "positive": 130,
+        "neutral": 15
+    },
+    "covid_restrictions": {
+        "count": 115,
+        "negative": 51,
+        "positive": 42,
+        "neutral": 22
+    },
+    "political": {
+        "count": 93,
+        "negative": 74,
+        "positive": 10,
+        "neutral": 9
+    },
+    "health_effect_of_covid": {
+        "count": 93,
+        "negative": 65,
+        "positive": 16,
+        "neutral": 12
+    },
+    "news": {
+        "count": 176,
+        "negative": 45,
+        "positive": 9,
+        "neutral": 122
+    },
+    "spread_of_covid_in_society": {
+        "count": 183,
+        "negative": 103,
+        "positive": 64,
+        "neutral": 16
+    },
+    "covid_test_healthcare": {
+        "count": 97,
+        "negative": 43,
+        "positive": 41,
+        "neutral": 13
+    },
+    "spam": {
+        "count": 19,
+        "negative": 7,
+        "positive": 5,
+        "neutral": 7
+    },
+    "total_sentiment": {
+        "negative": 467,
+        "positive": 317,
+        "neutral": 216
+    }
+}
